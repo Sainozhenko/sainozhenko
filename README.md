@@ -24,7 +24,7 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/sainozhenko)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sainozhenko)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/sainozhenko)
-[![CSS5](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css5)](https://hub.docker.com/u/sainozhenko)
+[![CSS5](https://img.shields.io/badge/css5-black?style=for-the-badge&logo=css5)](https://hub.docker.com/u/sainozhenko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/sainozhenko)
 
 ### OS
