@@ -35,7 +35,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/sainozhenko">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainoyhenko&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sainozhenko&theme=transparent" />
   </a>
   <a href="https://github.com/sainozhenko">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainoyhenko&hide_border=true&card_width=338&theme=transparent" />
