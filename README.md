@@ -30,7 +30,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sainozhenko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/sainozhenko)
-[![FreeBSD](https://img.shields.io/badge/FreeBSD-black?style=for-the-badge&logo=FreeBSD)](https://github.com/sainozhenko)
+[![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOs)](https://github.com/sainozhenko)
 
 <details>
 <p align="center">
