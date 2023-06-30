@@ -1,10 +1,16 @@
-<h1 align="center">Hi, guys! <img src="https://github.com/Sainozhenko/sainozhenko/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
-
+<h1 align="center">Hello everyone!<img src="https://github.com/Sainozhenko/sainozhenko/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<p align="center">
+    <b>For Interview:</b><br><br>
+    <a href="https://sainozhenko.github.io/interviewProject/">
+        <img width=75px height=75px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBDtC6A57UgqKjl3oBO1ToyCIpqzxFQhW8g&usqp=CAU" alt="Logo">
+    </a>
+</p>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dmytro.<br>
-        Open to collaborating on interesting and innovative projects.<br>
+        Open to collaborating on interesting and innovative projects.
+        Searching work how engineer Automation QA.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/sainozhenko">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
@@ -21,7 +27,10 @@
 
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/sainozhenko)
+[![Gradle](https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=gradle)](https://github.com/sainozhenko)
+[![Jeenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/sainozhenko)
+[![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
+[![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sainozhenko)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/sainozhenko)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/sainozhenko)
@@ -45,12 +54,9 @@
   <a href="https://github.com/sainozhenko">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sainozhenko&theme=transparent" />
   </a>
-  <a href="https://github.com/sainozhenko">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainozhenko&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
+
 </p>
 </details>
-
 <p align="center">
   <a href="https://github.com/sainozhenko">
     <img src="https://komarev.com/ghpvc/?username=sainozhenko&color=blue&style=flat)" />
