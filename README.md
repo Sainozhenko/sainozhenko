@@ -1,7 +1,7 @@
 <h1 align="center">Hello everyone!<img src="https://github.com/Sainozhenko/sainozhenko/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 <p align="center">
     <b>For Interview:</b><br><br>
-    <a href="https://sainozhenko.github.io/interviewProject/">
+    <a href="https://sainozhenko.github.io/frontend">
         <img width=75px height=75px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBDtC6A57UgqKjl3oBO1ToyCIpqzxFQhW8g&usqp=CAU" alt="Logo">
     </a>
 </p>
