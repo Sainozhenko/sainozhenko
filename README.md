@@ -29,6 +29,7 @@
 ### Technologies & Frameworks
 [![Gradle](https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=gradle)](https://github.com/sainozhenko)
 [![Jeenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/sainozhenko)
+[![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/sainozhenko)
 [![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
 [![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sainozhenko)
