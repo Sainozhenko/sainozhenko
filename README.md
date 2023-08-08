@@ -18,11 +18,11 @@
 </p>
 
 ### Languages
-[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/sainozhenko)
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/sainozhenko)
-[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
+[![MONGO](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/sainozhenko)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
+[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
 
 
 
@@ -33,9 +33,6 @@
 [![REST](https://img.shields.io/badge/rest-black?style=for-the-badge&logo=rest)](https://github.com/sainozhenko)
 [![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
 [![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/sainozhenko)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/sainozhenko)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/sainozhenko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/sainozhenko)
 
 ### OS
