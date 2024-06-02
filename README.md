@@ -22,7 +22,8 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
+[![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
+[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
 [![MONGO](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/sainozhenko)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
