@@ -14,7 +14,7 @@
     <i>
         I'm Dmytro.<br>
         Open to collaborating on interesting and innovative projects.
-         Looking for a job as a QA Automation Engineer.<br>
+         Looking for a job as a QA Automation Engineer or Cybersecurity Engineer.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/sainozhenko">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
