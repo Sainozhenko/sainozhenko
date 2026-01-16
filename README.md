@@ -5,8 +5,8 @@
         <a href="https://github.com/Sainozhenko/ArtCake_QA">
         <img width=110px height=75px src="https://github.com/Sainozhenko/ArtCake_QA/raw/dev/src/test/resources/git/logo.png" alt="Logo">
     </a>
-    <a href="https://sainozhenko.github.io/frontend">
-        <img width=75px height=75px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBDtC6A57UgqKjl3oBO1ToyCIpqzxFQhW8g&usqp=CAU" alt="Logo">
+    <!-- <a href="https://sainozhenko.github.io/frontend">
+        <img width=px height=75px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBDtC6A57UgqKjl3oBO1ToyCIpqzxFQhW8g&usqp=CAU" alt="Logo"> -->
  
 </p>
 <p align="center">
