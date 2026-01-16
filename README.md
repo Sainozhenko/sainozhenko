@@ -1,6 +1,6 @@
 <h1 align="center">Hello everyone!<img src="https://github.com/Sainozhenko/sainozhenko/blob/main/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 <p align="center">
-    <b>For Interview:</b><br><br>
+    <!-- <b>For Interview:</b><br><br> -->
        </a>
         <a href="https://github.com/Sainozhenko/ArtCake_QA">
         <img width=110px height=75px src="https://github.com/Sainozhenko/ArtCake_QA/raw/dev/src/test/resources/git/logo.png" alt="Logo">
