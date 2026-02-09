@@ -13,8 +13,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Dmytro.<br>
-        Open to collaborating on interesting and innovative projects.
-         Looking for a job as a QA Automation Engineer or Cybersecurity Engineer.<br>
+        QA Engineer (Manual & Automation) | API & UI Testing | Java, Selenium, REST Assured, Postman | CI/CD | Open to Work.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/dsainozh">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
