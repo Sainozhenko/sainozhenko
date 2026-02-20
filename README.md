@@ -23,11 +23,11 @@
 ### Languages
 [![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
 [![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
-[![Python](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
+[![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://github.com/sainozhenko)
 [![MONGO](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/sainozhenko)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
-[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
+[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=gnu-git&logoColor=white)](https://github.com/sainozhenko)
 
 
 
@@ -36,6 +36,7 @@
 [![Jeenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/sainozhenko)
 [![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/sainozhenko)
 [![REST](https://img.shields.io/badge/rest-black?style=for-the-badge&logo=rest)](https://github.com/sainozhenko)
+[![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://hub.docker.com/u/sainozhenko)
 [![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
 [![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/sainozhenko)
