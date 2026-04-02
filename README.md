@@ -27,7 +27,7 @@
 [![MONGO](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/sainozhenko)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
-[![GIT](https://img.shields.io/badge/git-black?style=for-the-badge&logo=gnu-git&logoColor=white)](https://github.com/sainozhenko)
+[![GIT](https://img.shields.io/badge/github-black?style=for-the-badge&logo=github)](https://github.com/sainozhenko)
 
 
 
