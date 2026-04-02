@@ -21,8 +21,8 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-blue?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
-[![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/sainozhenko)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/sainozhenko)
 [![Selenium](https://img.shields.io/badge/selenium-black?style=for-the-badge&logo=selenium)](https://github.com/sainozhenko)
 [![MONGO](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/sainozhenko)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/sainozhenko)
@@ -35,17 +35,18 @@
 [![Gradle](https://img.shields.io/badge/gradle-black?style=for-the-badge&logo=gradle)](https://github.com/sainozhenko)
 [![Jeenkins](https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins)](https://github.com/sainozhenko)
 [![POSTMAN](https://img.shields.io/badge/postman-black?style=for-the-badge&logo=postman)](https://github.com/sainozhenko)
-[![REST](https://img.shields.io/badge/rest-black?style=for-the-badge&logo=rest)](https://github.com/sainozhenko)
 [![Jira](https://img.shields.io/badge/jira-black?style=for-the-badge&logo=jira)](https://hub.docker.com/u/sainozhenko)
-[![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
-[![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/sainozhenko)
+[![RestAuured](https://img.shields.io/badge/rest_assured-black?style=for-the-badge&logo=rest_assured)](https://github.com/sainozhenko)
+[![TestLink](https://img.shields.io/badge/testlink-black?style=for-the-badge&logo=testlink)](https://github.com/sainozhenko)
+[![TestNG](https://img.shields.io/badge/testng-black?style=for-the-badge&logo=testng)](https://github.com/sainozhenko)
+
 
 ### OS
-[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sainozhenko)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/sainozhenko)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/sainozhenko)
 [![MacOS](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=MacOs)](https://github.com/sainozhenko)
-[![MacOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/sainozhenko)
+[![iOS](https://img.shields.io/badge/ios-black?style=for-the-badge&logo=ios)](https://github.com/sainozhenko)
 [![Android](https://img.shields.io/badge/android-black?style=for-the-badge&logo=android)](https://github.com/sainozhenko)
 
 <details>
